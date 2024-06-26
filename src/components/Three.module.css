@@ -1,0 +1,62 @@
+.gig {
+    width: 326px;
+    height: 160vh;
+    background-color: #FAFAFA;
+    padding: 10px;
+}
+.willy {
+    width: 326px;
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+.wf {
+    width: 40px;
+    height: 40px;
+}
+.live {
+    color: #22283C;
+    font-size: 24px;
+}
+.orange {
+    width: 326px;
+    height: 75px;
+    background-color: #FC8B40;
+}
+.yuh {
+    width: 326px;
+    height: 70px;
+    display: flex;
+    margin-top: 10px;
+}
+.yuh3 > p {
+   margin-top: -20px;
+}
+.needfor {
+    width: 326px;
+    height: 220px;
+    margin-top: 20px;
+}
+.speed {
+    font-size: 28px;
+    color: #22283C;
+}
+.speed2 {
+    color: #9DA1B4;
+    font-size: 18px;
+    margin-top: -15px;
+}
+.wiwi {
+    width: 323px;
+    color: #9DA1B4;
+}
+.bigBtn {
+    width: 326px;
+    height: 45px;
+    background-color: #FC8B40;
+    color: #fff;
+    border-radius: 8px;
+    cursor: pointer;
+    border: none;
+    margin-top: 20px;
+}

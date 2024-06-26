@@ -1,0 +1,47 @@
+.h1h1 {
+    font-size: 24px;
+    width: 205px;
+    color: #261D56;
+}
+.one {
+    display: flex;
+    gap: 25px;
+}
+.games1 {
+    width: 169px;
+    height: 250px;
+    background-image: url("../image/1-1.png");
+}
+.hh2 {
+    font-size: 24px;
+    color: #fff;
+    margin-top: 150px;
+    padding: 10px;
+}
+.onesp {
+    width: 125px;
+    color: #fff;
+    margin-top: -30px;
+    font-size: 18px;
+    padding: 10px;
+}
+.games2 {
+    width: 169px;
+    height: 250px;
+    background-image: url("../image/1-2.png");
+}
+.games3 {
+    width: 169px;
+    height: 250px;
+    background-image: url("../image/1-3.png");
+}
+.games4 {
+    width: 169px;
+    height: 250px;
+    background-image: url("../image/1-4.png");
+}
+.games5 {
+    width: 169px;
+    height: 250px;
+    background-image: url("../image/1-5.png");
+}

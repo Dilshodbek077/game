@@ -1,0 +1,26 @@
+.first {
+    height: 50px;
+    width: 983px;
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    padding: 5px;
+}
+.btn {
+    width: 91px;
+    height: 37px;
+    border-radius: 16px;
+    background-color: #FC8B40;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+.list {
+    display: flex;
+    list-style: none;
+    gap: 30px;
+}
+.aaa {
+    color: #A0A8B1;
+    text-decoration: none;
+}

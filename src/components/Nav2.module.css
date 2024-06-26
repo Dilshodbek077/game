@@ -1,0 +1,28 @@
+.box {
+    width: 923px;
+    height: 300px;
+    background-image: url("/src/image/fotosd.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 14px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding: 15px;
+}
+.hh1 {
+    width: 494px;
+    font-size: 42px;
+    color: #fff;
+}
+.btn2 {
+    width: 160px;
+    height: 55px;
+    background-color: #FC8B40;
+    border-radius: 8px;
+    border: none;
+    cursor: pointer;
+    color: #fff;
+    padding: 15px;
+}
